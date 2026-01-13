@@ -25,7 +25,7 @@ A fully connected Neural Network implementation in Java, built from scratch with
    javac *.java
 
 4. **Train the Network:**
-   It is not recommended to train the data. The code solely runs on CPU and suffers from pointer chasing. It took hours to train with 10.000 samples and 5 epochs. I have already provided 2 models under ```trainedModels``` folder.
+   It is not recommended to train the model. The code solely runs on CPU and suffers from pointer chasing. It took hours to train with 10.000 samples and 5 epochs. I have already provided 2 models under ```trainedModels``` folder.
     You can use them or train with low sample and epoch values to save time.
    ```bash
    java App
