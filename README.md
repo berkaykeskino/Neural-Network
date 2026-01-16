@@ -1,5 +1,8 @@
 # Java Neural Network from Scratch
 
+https://github.com/user-attachments/assets/92370fa1-0391-4051-a055-8a2107c4fb88
+
+
 A fully connected Neural Network implementation in Java, built from scratch without external ML libraries. It trains on the MNIST dataset to recognize handwritten digits.
 
 ## Features
